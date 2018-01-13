@@ -1,0 +1,5 @@
+C:\Users\worm0\Documents\GitHub\EvenOddSums\evenoddsums\evenoddsums\bin\Debug\evenoddsums.exe
+C:\Users\worm0\Documents\GitHub\EvenOddSums\evenoddsums\evenoddsums\bin\Debug\evenoddsums.pdb
+C:\Users\worm0\Documents\GitHub\EvenOddSums\evenoddsums\evenoddsums\obj\x86\Debug\evenoddsums.exe
+C:\Users\worm0\Documents\GitHub\EvenOddSums\evenoddsums\evenoddsums\obj\x86\Debug\evenoddsums.pdb
+C:\Users\worm0\Documents\GitHub\EvenOddSums\evenoddsums\evenoddsums\bin\Debug\input.txt
